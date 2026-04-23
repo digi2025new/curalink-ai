@@ -115,25 +115,25 @@ FastAPI
 POST /process → Full response (AI + research + trials)
 POST /stream → Streaming AI response
 
-📸 Screenshots
+## 📸 Screenshots
 
 ### 🏠 Home
-![Home](./screenshots/home.png)
+![Home](screenshots/home.png)
 
 ### 💬 Chat
-![Chat](./screenshots/chat.png)
+![Chat](screenshots/chat.png)
 
-### 📚 Research Papers
-![Research](./screenshots/research.png)
+### 📚 Research
+![Research](screenshots/research.png)
 
 ### 🧪 Clinical Trials
-![Trials](./screenshots/trials.png)
+![Trials](screenshots/trials.png)
 
 ### 📂 Sidebar
-![Sidebar](./screenshots/sidebar.png)
+![Sidebar](screenshots/sidebar.png)
 
 ### 📱 Mobile View
-![Mobile](./screenshots/mobile.png)
+![Mobile](screenshots/mobile.png)
 
 🚀 Future Improvements
 🔐 User authentication (login/signup)
