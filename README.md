@@ -1,3 +1,4 @@
+![Test](screenshots/home.png)
 # 🧠 Curalink AI – Medical Research Assistant
 
 Curalink AI is a full-stack AI-powered web application that helps users explore **medical research papers, clinical trials, and AI-generated insights** based on a disease and query.
