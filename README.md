@@ -118,22 +118,22 @@ POST /stream → Streaming AI response
 ## 📸 Screenshots
 
 ### 🏠 Home
-![Home](screenshots/home.png)
+![Home](https://raw.githubusercontent.com/digi2025new/curalink-ai/main/screenshots/home.png)
 
 ### 💬 Chat
-![Chat](screenshots/chat.png)
+![Chat](https://raw.githubusercontent.com/digi2025new/curalink-ai/main/screenshots/chat.png)
 
 ### 📚 Research
-![Research](screenshots/research.png)
+![Research](https://raw.githubusercontent.com/digi2025new/curalink-ai/main/screenshots/research.png)
 
 ### 🧪 Clinical Trials
-![Trials](screenshots/trials.png)
+![Trials](https://raw.githubusercontent.com/digi2025new/curalink-ai/main/screenshots/trials.png)
 
 ### 📂 Sidebar
-![Sidebar](screenshots/sidebar.png)
+![Sidebar](https://raw.githubusercontent.com/digi2025new/curalink-ai/main/screenshots/sidebar.png)
 
 ### 📱 Mobile View
-![Mobile](screenshots/mobile.png)
+![Mobile](https://raw.githubusercontent.com/digi2025new/curalink-ai/main/screenshots/mobile.png)
 
 🚀 Future Improvements
 🔐 User authentication (login/signup)
