@@ -1,23 +1,7 @@
-```md id="n9p3k1"
-<h1 align="center">🧠 Curalink AI</h1>
-<p align="center">AI-powered Medical Research Assistant</p>
-
-<p align="center">
-  <img src="screenshots/home.png" width="800"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-Frontend-blue?logo=react"/>
-  <img src="https://img.shields.io/badge/Node.js-Backend-green?logo=node.js"/>
-  <img src="https://img.shields.io/badge/FastAPI-AI_Service-teal?logo=fastapi"/>
-  <img src="https://img.shields.io/badge/MongoDB-Database-darkgreen?logo=mongodb"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-UI-38B2AC?logo=tailwindcss"/>
-  <img src="https://img.shields.io/badge/Ollama-LLM-black"/>
-</p>
-
----
-
+```md
 # 🧠 Curalink AI – Medical Research Assistant
+
+![Home](screenshots/home.png)
 
 Curalink AI is a full-stack AI-powered web application that helps users explore **medical research papers, clinical trials, and AI-generated insights** based on a disease and query.
 
@@ -223,18 +207,3 @@ It does not provide medical advice. Always consult a healthcare professional.
 
 If you like this project, give it a ⭐ on GitHub!
 
-```
-
----
-
-# 🚀 What You Just Improved
-
-✔ Professional first impression (hero section)  
-✔ Tech credibility (badges)  
-✔ Clean GitHub look (like real projects)  
-
----
-
-If you want next upgrade:
-👉 Add **demo GIF + live deployed link (this will make it portfolio-level 🔥)**
-```
